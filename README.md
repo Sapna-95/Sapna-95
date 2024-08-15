@@ -10,16 +10,23 @@ Hi there, I’m Sapna! 👋
 💻 Skills & Technologies
 
 Languages: Python, SQL
+
 Data Science & AI: Machine Learning, Data Visualization
+
 Tools & Libraries: Anaconda, Numpy, Pandas, Jupyter Notebook, Google Colab, Visual Studio, MySQL, Power BI, Tableau
+
 🌐 Data Analysis Skills
 
 Data Handling: Expertise in processing, analyzing, and visualizing data to uncover actionable insights
+
 Machine Learning: Applying ML algorithms to solve data-driven problems
+
 Visualization: Creating impactful visualizations with Power BI and Tableau
+
 I'm eager to collaborate on projects that push the boundaries of data analysis and innovation. Let's connect and explore how we can make data work for us!
 
 📫 Connect with Me
 
 LinkedIn: https://www.linkedin.com/in/sapna-devi-382476250
+
 Email: sapna890thakur@gmail.com
