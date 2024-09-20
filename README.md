@@ -1,5 +1,5 @@
 Hi there, I’m Sapna! 👋
-🚀 I'm a passionate Data Analyst with a strong foundation in Physical Chemistry and a growing expertise in Data Science and AI. Recently, I've transitioned into the world of data, where I apply my analytical skills to solve complex problems and derive actionable insights.
+🚀 I'm a passionate Data Analyst with a strong foundation in Physics, Chemistry and Mathematics and growing expertise in Data Science and AI. Recently, I've transitioned into the world of data, where I apply my analytical skills to solve complex problems and derive actionable insights.
 
 🔍 My academic background has equipped me with a unique blend of scientific knowledge and data analysis expertise. I'm proficient in Python, SQL, and Machine Learning, and I leverage tools like Power BI and Tableau to visualize data effectively.
 
